@@ -1,4 +1,5 @@
 Project Title: NexusTrade – Data-Driven Decision Support for the Digital Economy
+
 Developer: Hamit Buyukguzel (hamitbuyukguzel-bit)
 
 Description
